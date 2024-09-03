@@ -17,6 +17,7 @@ function App() {
         >
           Ajay Kumar
         </a>
+        <button type="button">Click Me!</button>
       </header>
     </div>
   );
