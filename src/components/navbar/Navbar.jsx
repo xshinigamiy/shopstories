@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
-import logo from '../../logo-3.svg';
+import logo from '../../assets/dummy.svg';
 import './navbar.css';
 
 const Navbar = () => {
@@ -15,7 +15,7 @@ const Navbar = () => {
         <div className="gpt3__navbar-links_container">
           <p><a href="#home">Leaderboard</a></p>
           <p><a href="#wgpt3">Content</a></p>
-          <p><a href="#possibility">Become an Expert</a></p>
+          <p><a href="#possibility">Become an ABC Expert</a></p>
           <p><a href="#features">Book</a></p>
           <p><a href="#blog">Search or find an Expert</a></p>
         </div>
